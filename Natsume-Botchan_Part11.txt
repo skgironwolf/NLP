@@ -1,0 +1,1706 @@
+﻿project gutenberg's botchan (master darling), by kin-nosuke natsume
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+
+title: botchan (master darling)
+
+author: kin-nosuke natsume
+
+translator: yasotaro morri
+
+posting date: october 14, 2012 [ebook #8868]
+release date: september, 2005
+first posted: august 17, 2003
+
+language: english
+
+
+*** start of this project gutenberg ebook botchan (master darling) ***
+
+
+
+
+produced by david starner and the online distributed proofreading team
+
+
+
+
+
+
+
+
+
+botchan (master darling)
+
+by the late mr. kin-nosuke natsume
+
+translated by yasotaro morri
+
+revised by j. r. kennedy
+
+1919
+
+
+
+a note by the translator
+
+no translation can expect to equal, much less to excel, the original.
+the excellence of a translation can only be judged by noting how far it
+has succeeded in reproducing the original tone, colors, style, the
+delicacy of sentiment, the force of inert strength, the peculiar
+expressions native to the language with which the original is written,
+or whatever is its marked characteristic. the ablest can do no more, and
+to want more than this will be demanding something impossible. strictly
+speaking, the only way one can derive full benefit or enjoyment from a
+foreign work is to read the original, for any intelligence at
+second-hand never gives the kind of satisfaction which is possible only
+through the direct touch with the original. even in the best translated
+work is probably wanted the subtle vitality natural to the original
+language, for it defies an attempt, however elaborate, to transmit all
+there is in the original. correctness of diction may be there, but
+spontaneity is gone; it cannot be helped.
+
+the task of the translator becomes doubly hazardous in case of
+translating a european language into japanese, or vice versa. between
+any of the european languages and japanese there is no visible kinship
+in word-form, significance, grammatical system, rhetorical arrangements.
+it may be said that the inspiration of the two languages is totally
+different. a want of similarity of customs, habits, traditions, national
+sentiments and traits makes the work of translation all the more
+difficult. a novel written in japanese which had attained national
+popularity might, when rendered into english, lose its captivating
+vividness, alluring interest and lasting appeal to the reader.
+
+these remarks are made not in way of excuse for any faulty dictions that
+may be found in the following pages. neither are they made out of
+personal modesty nor of a desire to add undue weight to the present
+work. they are made in the hope that whoever is good enough to go
+through the present translation will remember, before he may venture to
+make criticisms, the kind and extent of difficulties besetting him in
+his attempts so as not to judge the merit of the original by this
+translation. nothing would afford the translator a greater pain than any
+unfavorable comment on the original based upon this translation. if
+there be any deserving merits in the following pages the credit is due
+to the original. any fault found in its interpretation or in the english
+version, the whole responsibility is on the translator.
+
+for the benefit of those who may not know the original, it must be
+stated that "botchan" by the late mr. k. natsume was an epoch-making
+piece of work. on its first appearance, mr. natsume's place and name as
+the foremost in the new literary school were firmly established. he had
+written many other novels of more serious intent, of heavier thoughts
+and of more enduring merits, but it was this "botchan" that secured him
+the lasting fame. its quaint style, dash and vigor in its narration
+appealed to the public who had become somewhat tired of the stereotyped
+sort of manner with which all stories had come to be handled.
+
+in its simplest understanding, "botchan" may be taken as an episode in
+the life of a son born in tokyo, hot-blooded, simple-hearted, pure as
+crystal and sturdy as a towering rock, honest and straight to a fault,
+intolerant of the least injustice and a volunteer ever ready to champion
+what he considers right and good. children may read it as a "story of
+man who tried to be honest." it is a light, amusing and, at the name
+time, instructive story, with no tangle of love affairs, no scheme of
+blood-curdling scenes or nothing startling or sensational in the plot or
+characters. the story, however, may be regarded as a biting sarcasm on a
+hypocritical society in which a gang of instructors of dark character at
+a middle school in a backwoods town plays a prominent part. the hero of
+the story is made a victim of their annoying intrigues, but finally
+comes out triumphant by smashing the petty red tapism, knocking down the
+sham pretentions and by actual use of the fist on the head instructor
+and his henchman.
+
+the story will be found equally entertaining as a means of studying the
+peculiar traits of the native of tokyo which are characterised by their
+quick temper, dashing spirit, generosity and by their readiness to
+resist even the lordly personage if convinced of their own justness, or
+to kneel down even to a child if they acknowledge their own wrong.
+incidently the touching devotion of the old maid servant kiyo to the
+hero will prove a standing reproach to the inconstant, unfaithful
+servants of which the number is ever increasing these days in tokyo. the
+story becomes doubly interesting by the fact that mr. k. natsume, when
+quite young, held a position of teacher of english at a middle school
+somewhere about the same part of the country described in the story,
+while he himself was born and brought up in tokyo.
+
+it may be added that the original is written in an autobiographical
+style. it is profusely interladed with spicy, catchy colloquials patent
+to the people of tokyo for the equals of which we may look to the
+rattling speeches of notorious chuck conners of the bowery of new york.
+it should be frankly stated that much difficulty was experienced in
+getting the corresponding terms in english for those catchy expressions.
+strictly speaking, some of them have no english equivalents. care has
+been exercised to select what has been thought most appropriate in the
+judgment or the translator in converting those expressions into english
+but some of them might provoke disapproval from those of the "cultured"
+class with "refined" ears. the slangs in english in this translation
+were taken from an american magazine of world-wide reputation editor of
+which was not afraid to print of "damn" when necessary, by scorning the
+timid, conventional way of putting it as "d--n." if the propriety of
+printing such short ugly words be questioned, the translator is sorry to
+say that no means now exists of directly bringing him to account for he
+met untimely death on board the lusitania when it was sunk by the german
+submarine.
+
+thanks are due to mr. j. r. kennedy, general manager, and mr. henry
+satoh, editor-in-chief, both of the kokusai tsushin-sha (the
+international news agency) of tokyo and a host of personal friends of
+the translator whose untiring assistance and kind suggestions have made
+the present translation possible. without their sympathetic interests,
+this translation may not have seen the daylight.
+
+tokyo, september, 1918.
+
+
+
+botchan (master darling)
+
+
+chapter i
+
+because of an hereditary recklessness, i have been playing always a
+losing game since my childhood. during my grammar school days, i was
+once laid up for about a week by jumping from the second story of the
+school building. some may ask why i committed such a rash act. there was
+no particular reason for doing such a thing except i happened to be
+looking out into the yard from the second floor of the newly-built
+school house, when one of my classmates, joking, shouted at me; "say,
+you big bluff, i'll bet you can't jump down from there! o, you
+chicken-heart, ha, ha!" so i jumped down. the janitor of the school had
+to carry me home on his back, and when my father saw me, he yelled
+derisively, "what a fellow you are to go and get your bones dislocated
+by jumping only from a second story!"
+
+"i'll see i don't get dislocated next time," i answered.
+
+one of my relatives once presented me with a pen-knife. i was showing it
+to my friends, reflecting its pretty blades against the rays of the sun,
+when one of them chimed in that the blades gleamed all right, but seemed
+rather dull for cutting with.
+
+"rather dull? see if they don't cut!" i retorted.
+
+"cut your finger, then," he challenged. and with "finger nothing! here
+goes!" i cut my thumb slant-wise. fortunately the knife was small and
+the bone of the thumb hard enough, so the thumb is still there, but the
+scar will be there until my death.
+
+about twenty steps to the east edge of our garden, there was a
+moderate-sized vegetable yard, rising toward the south, and in the
+centre of which stood a chestnut tree which was dearer to me than life.
+in the season when the chestnuts were ripe, i used to slip out of the
+house from the back door early in the morning to pick up the chestnuts
+which had fallen during the night, and eat them at the school. on the
+west side of the vegetable yard was the adjoining garden of a pawn shop
+called yamashiro-ya. this shopkeeper's son was a boy about 13 or 14
+years old named kantaro. kantaro was, it happens, a mollycoddle.
+nevertheless he had the temerity to come over the fence to our yard and
+steal my chestnuts.
+
+one certain evening i hid myself behind a folding-gate of the fence and
+caught him in the act. having his retreat cut off he grappled with me in
+desperation. he was about two years older than i, and, though
+weak-kneed, was physically the stronger. while i wallopped him, he
+pushed his head against my breast and by chance it slipped inside my
+sleeve. as this hindered the free action of my arm, i tried to shake him
+loose, though, his head dangled the further inside, and being no longer
+able to stand the stifling combat, he bit my bare arm. it was painful. i
+held him fast against the fence, and by a dexterous foot twist sent him
+down flat on his back. kantaro broke the fence and as the ground
+belonging to yamashiro-ya was about six feet lower than the vegetable
+yard, he fell headlong to his own territory with a thud. as he rolled
+off he tore away the sleeve in which his head had been enwrapped, and my
+arm recovered a sudden freedom of movement. that night when my mother
+went to yamashiro-ya to apologize, she brought back that sleeve.
+
+besides the above, i did many other mischiefs. with kaneko of a
+carpenter shop and kaku of a fishmarket, i once ruined a carrot patch of
+one mosaku. the sprouts were just shooting out and the patch was covered
+with straws to ensure their even healthy growth. upon this straw-covered
+patch, we three wrestled for fully half a day, and consequently
+thoroughly smashed all the sprouts. also i once filled up a well which
+watered some rice fields owned by one furukawa, and he followed me with
+kicks. the well was so devised that from a large bamboo pole, sunk deep
+into the ground, the water issued and irrigated the rice fields.
+ignorant of the mechanical side of this irrigating method at that time,
+i stuffed the bamboo pole with stones and sticks, and satisfied that no
+more water came up, i returned home and was eating supper when furukawa,
+fiery red with anger, burst into our house with howling protests. i
+believe the affair was settled on our paying for the damage.
+
+father did not like me in the least, and mother always sided with my big
+brother. this brother's face was palish white, and he had a fondness for
+taking the part of an actress at the theatre.
+
+"this fellow will never amount to much," father used to remark when
+he saw me.
+
+"he's so reckless that i worry about his future," i often heard mother
+say of me. exactly; i have never amounted to much. i am just as you see
+me; no wonder my future used to cause anxiety to my mother. i am living
+without becoming but a jailbird.
+
+two or three days previous to my mother's death, i took it into my head
+to turn a somersault in the kitchen, and painfully hit my ribs against
+the corner of the stove. mother was very angry at this and told me not
+to show my face again, so i went to a relative to stay with. while
+there, i received the news that my mother's illness had become very
+serious, and that after all efforts for her recovery, she was dead. i
+came home thinking that i should have behaved better if i had known the
+conditions were so serious as that. then that big brother of mine
+denounced me as wanting in filial piety, and that i had caused her
+untimely death. mortified at this, i slapped his face, and thereupon
+received a sound scolding from father.
+
+after the death of mother, i lived with father and brother. father did
+nothing, and always said "you're no good" to my face. what he meant by
+"no good" i am yet to understand. a funny dad he was. my brother was to
+be seen studying english hard, saying that he was going to be a
+businessman. he was like a girl by nature, and so "sassy" that we two
+were never on good terms, and had to fight it out about once every ten
+days. when we played a chess game one day, he placed a chessman as a
+"waiter,"--a cowardly tactic this,--and had hearty laugh on me by seeing
+me in a fix. his manner was so trying that time that i banged a chessman
+on his forehead which was injured a little bit and bled. he told all
+about this to father, who said he would disinherit me.
+
+then i gave up myself for lost, and expected to be really disinherited.
+but our maid kiyo, who had been with us for ten years or so, interceded
+on my behalf, and tearfully apologized for me, and by her appeal my
+father's wrath was softened. i did not regard him, however, as one to be
+afraid of in any way, but rather felt sorry for our kiyo. i had heard
+that kiyo was of a decent, well-to-do family, but being driven to
+poverty at the time of the restoration, had to work as a servant. so she
+was an old woman by this time. this old woman,--by what affinity, as
+the buddhists say, i don't know,--loved me a great deal. strange,
+indeed! she was almost blindly fond of me,--me, whom mother, became
+thoroughly disgusted with three days before her death; whom father
+considered a most aggravating proposition all the year round, and whom
+the neighbors cordially hated as the local bully among the youngsters. i
+had long reconciled myself to the fact that my nature was far from being
+attractive to others, and so didn't mind if i were treated as a piece of
+wood; so i thought it uncommon that kiyo should pet me like that.
+sometimes in the kitchen, when there was nobody around, she would praise
+me saying that i was straightforward and of a good disposition. what she
+meant by that exactly, was not clear to me, however. if i were of so
+good a nature as she said, i imagined those other than kiyo should
+accord me a better treatment. so whenever kiyo said to me anything of
+the kind, i used to answer that i did not like passing compliments. then
+she would remark; "that's the very reason i say you are of a good
+disposition," and would gaze at me with absorbing tenderness. she seemed
+to recreate me by her own imagination, and was proud of the fact. i felt
+even chilled through my marrow at her constant attention to me.
+
+after my mother was dead, kiyo loved me still more. in my simple
+reasoning, i wondered why she had taken such a fancy to me. sometimes i
+thought it quite futile on her part, that she had better quit that sort
+of thing, which was bad for her. but she loved me just the same. once
+in, a while she would buy, out of her own pocket, some cakes or
+sweetmeats for me. when the night was cold, she would secretly buy some
+noodle powder, and bring all unawares hot noodle gruel to my bed; or
+sometimes she would even buy a bowl of steaming noodles from the
+peddler. not only with edibles, but she was generous alike with socks,
+pencils, note books, etc. and she even furnished me,--this happened some
+time later,--with about three yen, i did not ask her for the money; she
+offered it from her own good will by bringing it to my room, saying that
+i might be in need of some cash. this, of course, embarrassed me, but as
+she was so insistent i consented to borrow it. i confess i was really
+glad of the money. i put it in a bag, and carried it in my pocket. while
+about the house, i happened to drop the bag into a cesspool. helpless, i
+told kiyo how i had lost the money, and at once she fetched a bamboo
+stick, and said she will get it for me. after a while i heard a
+splashing sound of water about our family well, and going there, saw
+kiyo washing the bag strung on the end of the stick. i opened the bag
+and found the edict of the three one-yen bills turned to faint yellow
+and designs fading. kiyo dried them at an open fire and handed them over
+to me, asking if they were all right. i smelled them and said; "they
+stink yet."
+
+"give them to me; i'll get them changed." she took those three bills,
+and,--i do not know how she went about it,--brought three yen in silver.
+i forget now upon what i spent the three yen. "i'll pay you back soon,"
+i said at the time, but didn't. i could not now pay it back even if i
+wished to do so with ten times the amount.
+
+when kiyo gave me anything she did so always when both father and
+brother were out. many things i do not like, but what i most detest is
+the monopolizing of favors behind some one else's back. bad as my
+relations were with my brother, still i did not feel justified in
+accepting candies or color-pencils from kiyo without my brother's
+knowledge. "why do you give those things only to me and not to my
+brother also?" i asked her once, and she answered quite unconcernedly
+that my brother may be left to himself as his father bought him
+everything. that was partiality; father was obstinate, but i am sure he
+was not a man who would indulge in favoritism. to kiyo, however, he
+might have looked that way. there is no doubt that kiyo was blind to the
+extent of her undue indulgence with me. she was said to have come from a
+well-to-do family, but the poor soul was uneducated, and it could not be
+helped. all the same, you cannot tell how prejudice will drive one to
+the extremes. kiyo seemed quite sure that some day i would achieve high
+position in society and become famous. equally she was sure that my
+brother, who was spending his hours studiously, was only good for his
+white skin, and would stand no show in the future. nothing can beat an
+old woman for this sort of thing, i tell you. she firmly believed that
+whoever she liked would become famous, while whoever she hated would
+not. i did not have at that time any particular object in my life. but
+the persistency with which kiyo declared that i would be a great man
+some day, made me speculate myself that after all i might become one.
+how absurd it seems to me now when i recall those days. i asked her once
+what kind of a man i should be, but she seemed to have formed no
+concrete idea as to that; only she said that i was sure to live in a
+house with grand entrance hall, and ride in a private rikisha.
+
+and kiyo seemed to have decided for herself to live with me when i
+became independent and occupy my own house. "please let me live with
+you,"--she repeatedly asked of me. feeling somewhat that i should
+eventually be able to own a house, i answered her "yes," as far as such
+an answer went. this woman, by the way, was strongly imaginative. she
+questioned me what place i liked,--kojimachi-ku or azabu-ku?--and
+suggested that i should have a swing in our garden, that one room be
+enough for european style, etc., planning everything to suit her own
+fancy. i did not then care a straw for anything like a house; so neither
+japanese nor european style was much of use to me, and i told her to
+that effect. then she would praise me as uncovetous and clean of heart.
+whatever i said, she had praise for me.
+
+i lived, after the death of mother, in this fashion for five or six
+years. i had kicks from father, had rows with brother, and had candies
+and praise from kiyo. i cared for nothing more; i thought this was
+enough. i imagined all other boys were leading about the same kind of
+life. as kiyo frequently told me, however, that i was to be pitied, and
+was unfortunate, i imagined that that might be so. there was nothing
+that particularly worried me except that father was too tight with my
+pocket money, and this was rather hard on me.
+
+in january of the 6th year after mother's death, father died of
+apoplexy. in april of the same year, i graduated from a middle school,
+and two months later, my brother graduated from a business college. soon
+he obtained a job in the kyushu branch of a certain firm and had to go
+there, while i had to remain in tokyo and continue my study. he proposed
+the sale of our house and the realization of our property, to which i
+answered "just as you like it." i had no intention of depending upon him
+anyway. even were he to look after me, i was sure of his starting
+something which would eventually end in a smash-up as we were prone to
+quarrel on the least pretext. it was because in order to receive his
+protection that i should have to bow before such a fellow, that i
+resolved that i would live by myself even if i had to do milk delivery.
+shortly afterwards he sent for a second-hand dealer and sold for a song
+all the bric-a-bric which had been handed down from ages ago in our
+family. our house and lot were sold, through the efforts of a middleman
+to a wealthy person. this transaction seemed to have netted a goodly sum
+to him, but i know nothing as to the detail.
+
+for one month previous to this, i had been rooming in a boarding house
+in kanda-ku, pending a decision as to my future course. kiyo was greatly
+grieved to see the house in which she had lived so many years change
+ownership, but she was helpless in the matter.
+
+"if you were a little older, you might have inherited this house," she
+once remarked in earnest.
+
+if i could have inherited the house through being a little older, i
+ought to have been able to inherit the house right then. she knew
+nothing, and believed the lack of age only prevented my coming into the
+possession of the house.
+
+thus i parted from my brother, but the disposal of kiyo was a difficult
+proposition. my brother was, of course, unable to take her along, nor
+was there any danger of her following him so far away as kyushu, while i
+was in a small room of a boarding house, and might have to clear out
+anytime at that. there was no way out, so i asked her if she intended to
+work somewhere else. finally she answered me definitely that she would
+go to her nephew's and wait until i started my own house and get
+married. this nephew was a clerk in the court of justice, and being
+fairly well off, had invited kiyo before more than once to come and live
+with him, but kiyo preferred to stay with us, even as a servant, since
+she had become well used to our family. but now i think she thought it
+better to go over to her nephew than to start a new life as servant in a
+strange house. be that as it may, she advised me to have my own
+household soon, or get married, so she would come and help me in
+housekeeping. i believe she liked me more than she did her own kin.
+
+my brother came to me, two days previous to his departure for kyushu,
+and giving me 600 yen, said that i might begin a business with it, or go
+ahead with my study, or spend it in any way i liked, but that that would
+be the last he could spare. it was a commendable act for my brother.
+what! about only 600 yen! i could get along without it, i thought, but
+as this unusually simple manner appealed to me, i accepted the offer
+with thanks. then he produced 50 yen, requesting me to give it to kiyo
+next time i saw her, which i readily complied with. two days after, i
+saw him off at the shimbashi station, and have not set my eyes on him
+ever since.
+
+lying in my bed, i meditated on the best way to spend that 600 yen. a
+business is fraught with too much trouble, and besides it was not my
+calling. moreover with only 600 yen no one could open a business worth
+the name. were i even able to do it, i was far from being educated, and
+after all, would lose it. better let investments alone, but study more
+with the money. dividing the 600 yen into three, and by spending 200 yen
+a year, i could study for three years. if i kept at one study with
+bull-dog tenacity for three years, i should be able to learn something.
+then the selection of a school was the next problem. by nature, there is
+no branch of study whatever which appeals to my taste. nix on languages
+or literature! the new poetry was all greek to me; i could not make out
+one single line of twenty. since i detested every kind of study, any
+kind of study should have been the same to me. thinking thus, i happened
+to pass front of a school of physics, and seeing a sign posted for the
+admittance of more students, i thought this might be a kind of
+"affinity," and having asked for the prospectus, at once filed my
+application for entrance. when i think of it now, it was a blunder due
+to my hereditary recklessness.
+
+for three years i studied about as diligently as ordinary fellows, but
+not being of a particularly brilliant quality, my standing in the class
+was easier to find by looking up from the bottom. strange, isn't it,
+that when three years were over, i graduated? i had to laugh at myself,
+but there being no reason for complaint, i passed out.
+
+eight days after my graduation, the principal of the school asked me to
+come over and see him. i wondered what he wanted, and went. a middle
+school in shikoku was in need of a teacher of mathematics for forty yen
+a month, and he sounded me to see if i would take it. i had studied for
+three years, but to tell the truth, i had no intention of either
+teaching or going to the country. having nothing in sight, however,
+except teaching, i readily accepted the offer. this too was a blunder
+due to hereditary recklessness.
+
+i accepted the position, and so must go there. the three years of my
+school life i had seen confined in a small room, but with no kick coming
+or having no rough house. it was a comparatively easy going period in my
+life. but now i had to pack up. once i went to kamakura on a picnic with
+my classmates while i was in the grammar school, and that was the first
+and last, so far, that i stepped outside of tokyo since i could
+remember. this time i must go darn far away, that it beats kamakura by a
+mile. the prospective town is situated on the coast, and looked the size
+of a needle-point on the map. it would not be much to look at anyway. i
+knew nothing about the place or the people there. it did not worry me or
+cause any anxiety. i had simply to travel there and that was the
+annoying part.
+
+once in a while, since our house was no more, i went to kiyo's
+nephew's to see her. her nephew was unusually good-natured, and
+whenever i called upon her, he treated me well if he happened to be at
+home. kiyo would boost me sky-high to her nephew right to my face. she
+went so far once as to say that when i had graduated from school, i
+would purchase a house somewhere in kojimachi-ku and get a position in
+a government office. she decided everything in her own way, and talked
+of it aloud, and i was made an unwilling and bashful listener. i do
+not know how her nephew weighed her tales of self-indulgence on me.
+kiyo was a woman of the old type, and seemed, as if it was still the
+days of feudal lords, to regard her nephew equally under obligation to
+me even as she was herself.
+
+after settling about my new position, i called upon her three days
+previous to my departure. she was sick abed in a small room, but, on
+seeing me she got up and immediately inquired;
+
+"master darling, when do you begin housekeeping?"
+
+she evidently thought as soon as a fellow finishes school, money comes
+to his pocket by itself. but then how absurd to call such a "great man"
+"darling." i told her simply that i should let the house proposition go
+for some time, as i had to go to the country. she looked greatly
+disappointed, and blankly smoothed her gray-haired sidelocks. i felt
+sorry for her, and said comfortingly; "i am going away but will come
+back soon. i'll return in the vacation next summer, sure." still as she
+appeared not fully satisfied, i added;
+
+"will bring you back a surprise. what do you like?"
+
+she wished to eat "sasa-ame"[1] of echigo province. i had never heard of
+"sasa-ame" of echigo. to begin with, the location is entirely different.
+
+[footnote 1: sasa-ame is a kind of rice-jelly wrapped with sasa, or the
+bamboo leaves, well-known as a product of echigo province.]
+
+"there seems to be no 'sasa-ame' in the country where i'm going," i
+explained, and she rejoined; "then, in what direction?" i answered
+"westward" and she came back with "is it on the other side of hakone?"
+this give-and-take conversation proved too much for me.
+
+on the day of my departure, she came to my room early in the morning and
+helped me to pack up. she put into my carpet-bag tooth powder,
+tooth-brush and towels which she said she had bought at a dry goods
+store on her way. i protested that i did not want them, but she was
+insistent.[a] we rode in rikishas to the station. coming up the
+platform, she gazed at me from outside the car, and said in a low voice;
+
+"this may be our last good-by. take care of yourself."
+
+her eyes were full of tears. i did not cry, but was almost going to.
+after the train had run some distance, thinking it would be all right
+now, i poked my head out of the window and looked back. she was still
+there. she looked very small.
+
+
+
+chapter ii.
+
+
+with a long, sonorous whistle the steamer which i was aboard came to a
+standstill, and a boat was seen making toward us from the shore. the man
+rowing the boat was stark naked, except for a piece of red cloth girt
+round his loins. a barbarous place, this! though he may have been
+excused for it in such hot weather as it was. the sun's rays were strong
+and the water glimmered in such strange colors as to dazzle one's sight
+if gazed at it for long. i had been told by a clerk of the ship that i
+was to get off here. the place looked like a fishing village about the
+size of omori. great scott! i wouldn't stay in such a hole, i thought,
+but i had to get out. so, down i jumped first into the boat, and i think
+five or six others followed me. after loading about four large boxes
+besides, the red-cloth rowed us ashore. when the boat struck the sand, i
+was again the first to jump out, and right away i accosted a skinny
+urchin standing nearby, asking him where the middle school was. the kid
+answered blankly that he did not know. confound the dull-head! not to
+know where the middle school was, living in such a tiny bit of a town.
+then a man wearing a rig with short, queer shaped sleeves approached me
+and bade me follow. i walked after him and was taken to an inn called
+minato-ya. the maids of the inn, who gave me a disagreeable impression,
+chorused at sight of me; "please step inside." this discouraged me in
+proceeding further, and i asked them, standing at the door-way, to show
+me the middle school. on being told that the middle school was about
+four miles away by rail, i became still more discouraged at putting up
+there. i snatched my two valises from the man with queer-shaped [b]
+sleeves who had guided me so far, and strode away. the people of the inn
+looked after me with a dazed expression.
+
+the station was easily found, and a ticket bought without any fuss. the
+coach i got in was about as dignified as a match-box. the train rambled
+on for about five minutes, and then i had to get off. no wonder the fare
+was cheap; it cost only three sen. i then hired a rikisha and arrived at
+the middle school, but school was already over and nobody was there. the
+teacher on night-duty was out just for a while, said the janitor,--the
+night-watch was taking life easy, sure. i thought of visiting the
+principal, but being tired, ordered the rikishaman to take me to a
+hotel. he did this with much alacrity and led me to a hotel called
+yamashiro-ya. i felt it rather amusing to find the name yamashiro-ya the
+same as that of kantaro's house.
+
+they ushered me to a dark room below the stairway. no one could stay in
+such a hot place! i said i did not like such a warm room, but the maid
+dumped my valises on the floor and left me, mumbling that all the other
+rooms were occupied. so i took the room though it took some resolution
+to stand the weltering heat. after a while the maid said the bath was
+ready, and i took one: on my way back from the bathroom, i peeped about,
+and found many rooms, which looked much cooler than mine, vacant.
+sunnovagun! they had lied. by'm-by, she fetched my supper. although the
+room was hot, the meal was a deal better than the kind i used to have in
+my boarding house. while waiting on me, she questioned me where i was
+from, and i said, "from tokyo." then she asked; "isn't tokyo a nice
+place?" and i shot back, "bet 'tis." about the time the maid had reached
+the kitchen, loud laughs were heard. there was nothing doing, so i went
+to bed, but could not sleep. not only was it hot, but noisy,--about five
+times noisier than my boarding house. while snoozing, i dreamed of kiyo.
+she was eating "sasa-ame" of echigo province without taking off the
+wrapper of bamboo leaves. i tried to stop her, saying bamboo leaves may
+do her harm, but she replied, "o, no, these leaves are very helpful for
+the health," and ate them with much relish. astounded, i laughed "ha,
+ha, ha!"--and so awoke. the maid was opening the outside shutters. the
+weather was just as clear as the previous day.
+
+i had heard once before that when travelling, one should give "tea
+money" to the hotel or inn where he stops; that unless this "tea
+money" is given, the hostelry would accord him rather rough treatment.
+it must have been on account of my being slow in the fork over of this
+"tea money" that they had huddled me into such a narrow, dark room.
+likewise my shabby clothes and the carpet bags and satin umbrella must
+have been accountable for it. took me for a piker, eh? those hayseeds!
+i would give them a knocker with "tea money." i left tokyo with about
+30 yen in my pocket, which remained from my school expenses. taking
+off the railway and steamship fare, and other incidental expenses, i
+had still about 14 yen in my pocket. i could give them all i
+had;--what did i care, i was going to get a salary now. all country
+folk are tight-wads, and one 5-yen bill would hit them square. now
+watch and see. having washed myself, i returned to my room and waited,
+and the maid of the night before brought in my breakfast. waiting on
+me with a tray, she looked at me with a sort of sulphuric smile. rude!
+is any parade marching on my face? i should say. even my face is far
+better than that of the maid. i intended of giving "tea money" after
+breakfast, but i became disgusted, and taking out one 5-yen bill told
+her to take it to the office later. the face of the maid became then
+shy and awkward. after the meal, i left for the school. the maid did
+not have my shoes polished.
+
+i had had vague idea of the direction of the school as i rode to it the
+previous day, so turning two or three corners, i came to the front gate.
+from the gate to the entrance the walk was paved with granite. when i
+had passed to the entrance in the rikisha, this walk made so
+outlandishly a loud noise that i had felt coy. on my way to the school,
+i met a number of the students in uniforms of cotton drill and they all
+entered this gate. some of them were taller than i and looked much
+stronger. when i thought of teaching fellows of this ilk, i was
+impressed with a queer sort of uneasiness. my card was taken to the
+principal, to whose room i was ushered at once. with scant mustache,
+dark-skinned and big-eyed, the principal was a man who looked like a
+badger. he studiously assumed an air of superiority, and saying he would
+like to see me do my best, handed the note of appointment, stamped big,
+in a solemn manner. this note i threw away into the sea on my way back
+to tokyo. he said he would introduce me to all my fellow teachers, and i
+was to show to each one of them the note of appointment. what a bother!
+it would be far better to stick this note up in the teachers' room for
+three days instead of going through such a monkey process.
+
+the teachers would not be all in the room until the bugle for the first
+hour was sounded. there was plenty of time. the principal took out his
+watch, and saying that he would acquaint me particularly with the school
+by-and-bye, he would only furnish me now with general matters, and
+started a long lecture on the spirit of education. for a while i
+listened to him with my mind half away somewhere else, but about half
+way through his lecture, i began to realize that i should soon be in a
+bad fix. i could not do, by any means, all he expected of me. he
+expected that i should make myself an example to the students, should
+become an object of admiration for the whole school or should exert my
+moral influence, besides teaching technical knowledge in order to
+become a real educator, or something ridiculously high-sounding. no man
+with such admirable qualities would come so far away for only 40 yen a
+month! men are generally alike. if one gets excited, one is liable to
+fight, i thought, but if things are to be kept on in the way the
+principal says, i could hardly open my mouth to utter anything, nor take
+a stroll around the place. if they wanted me to fill such an onerous
+post, they should have told all that before. i hate to tell a lie; i
+would give it up as having been cheated, and get out of this mess like a
+man there and then. i had only about 9 yen left in my pocket after
+tipping the hotel 5 yen. nine yen would not take me back to tokyo. i had
+better not have tipped the hotel; what a pity! however, i would be able
+to manage it somehow. i considered it better to run short in my return
+expenses than to tell a lie.
+
+"i cannot do it the way you want me to. i return this appointment."
+
+i shoved back the note. the principal winked his badger-like eyes and
+gazed at me. then he said;
+
+"what i have said just now is what i desire of you. i know well that you
+cannot do all i want, so don't worry."
+
+and he laughed. if he knew it so well already, what on earth did he
+scare me for?
+
+meanwhile the bugle sounded, being followed by bustling noises in the
+direction of the class rooms. all the teachers would be now ready, i was
+told, and i followed the principal to the teachers' room. in a spacious
+rectangular room, they sat each before a table lined along the walls.
+when i entered the room, they all glanced at me as if by previous
+agreement. did they think my face was for a show? then, as per
+instructions, i introduced myself and showed the note to each one of
+them. most of them left their chairs and made a slight bow of
+acknowledgment. but some of the more painfully polite took the note and
+read it and respectfully returned it to me, just like the cheap
+performances at a rural show! when i came to the fifteenth, who was the
+teacher of physical training, i became impatient at repeating the same
+old thing so often. the other side had to do it only once, but my side
+had to do it fifteen times. they ought to have had some sympathy.
+
+among those i met in the room there was mr. blank who was head teacher.
+said he was a bachelor of arts. i suppose he was a great man since he
+was a graduate from imperial university and had such a title. he talked
+in a strangely effeminate voice like a woman. but what surprised me most
+was that he wore a flannel shirt. however thin it might be, flannel is
+flannel and must have been pretty warm at that time of the year. what
+painstaking dress is required which will be becoming to a b.a.! and it
+was a red shirt; wouldn't that kill you! i heard afterwards that he
+wears a red shirt all the year round. what a strange affliction!
+according to his own explanation, he has his shirts made to order for
+the sake of his health as the red color is beneficial to the physical
+condition. unnecessary worry, this, for that being the case, he should
+have had his coat and hakama also in red. and there was one mr. koga,
+teacher of english, whose complexion was very pale. pale-faced people
+are usually thin, but this man was pale and fat. when i was attending
+grammar school, there was one tami asai in our class, and his father was
+just as pale as this koga. asai was a farmer, and i asked kiyo if one's
+face would become pale if he took up farming. kiyo said it was not so;
+asai ate always hubbard squash of "uranari" [2] and that was the reason.
+thereafter when i saw any man pale and fat, i took it for granted that
+it was the result of his having eaten too much of squash of "uranari."
+this english teacher was surely subsisting upon squash. however, what
+the meaning of "uranari" is, i do not know. i asked kiyo once, but she
+only laughed. probably she did not know. among the teachers of
+mathematics, there was one named hotta. this was a fellow of massive
+body, with hair closely cropped. he looked like one of the old-time
+devilish priests who made the eizan temple famous. i showed him the note
+politely, but he did not even look at it, and blurted out;
+
+"you're the man newly appointed, eh? come and see me sometime,
+ha, ha, ha!"
+
+[footnote 2: means the last crop.]
+
+devil take his "ha, ha, ha!" who would go to see a fellow so void of the
+sense of common decency! i gave this priest from this time the nickname
+of porcupine.
+
+the confucian teacher was strict in his manner as becoming to his
+profession. "arrived yesterday? you must be tired. start teaching
+already? working hard, indeed!"--and so on. he was an old man, quite
+sociable and talkative.
+
+the teacher of drawing was altogether like a cheap actor. he wore a
+thin, flappy haori of sukiya, and, toying with a fan, he giggled; "where
+from? eh? tokyo? glad to hear that. you make another of our group. i'm a
+tokyo kid myself."
+
+if such a fellow prided himself on being a tokyo kid, i wished i had
+never been born in tokyo. i might go on writing about each one of
+them, for there are many, but i stop here otherwise there will be no
+end to it.
+
+when my formal introduction was over, the principal said that i might go
+for the day, but i should make arrangements as to the class hours, etc.,
+with the head teacher of mathematics and begin teaching from the day
+after the morrow. asked who was the head teacher of mathematics, i found
+that he was no other than that porcupine. holy smokes! was i to serve
+under him? i was disappointed.
+
+"say, where are you stopping? yamashiro-ya? well, i'll come and
+talk it over."
+
+so saying, porcupine, chalk in hand, left the room to his class. that
+was rather humiliating for a head-teacher to come over and see his
+subordinate, but it was better than to call me over to him.
+
+after leaving the school, i thought of returning straight to the hotel,
+but as there was nothing to do, i decided to take in a little of the
+town, and started walking about following my nose. i saw prefectural
+building; it was an old structure of the last century. also i saw the
+barracks; they were less imposing than those of the azabu regiment,
+tokyo. i passed through the main street. the width of the street is
+about one half that of kagurazaka, and its aspect is inferior. what
+about a castle-town of 250,000-koku lord! pity the fellows who get
+swell-headed in such a place as a castle-town!
+
+while i walked about musing like this, i found myself in front of
+yamashiro-ya. the town was much narrower than i had been led to believe.
+
+"i think i have seen nearly all. guess i'll return and eat." and i
+entered the gate. the mistress of the hotel who was sitting at the
+counter, jumped out of her place at my appearance and with "are you
+back, sire!" scraped the floor with her forehead. when i took my shoes
+off and stepped inside, the maid took me to an upstairs room that had
+became vacant. it was a front room of 15 mats (about 90 square feet). i
+had never before lived in so splendid a room as this. as it was quite
+uncertain when i should again be able to occupy such a room in future, i
+took off my european dress, and with only a single japanese summer coat
+on, sprawled in the centre of the room in the shape of the japanese
+letter "big" (arms stretched out and legs spread wide[d]). i found it
+very refreshing.
+
+after luncheon i at once wrote a letter to kiyo. i hate most to write
+letters because i am poor at sentence-making and also poor in my stock
+of words. neither did i have any place to which to address my letters.
+however, kiyo might be getting anxious. it would not do to let her worry
+lest she think the steamer which i boarded had been wrecked and i was
+drowned,--so i braced up and wrote a long one. the body of the letter
+was as follows:
+
+  "arrived yesterday. a dull place. am sleeping in a room of 15 mats.
+  tipped the hotel five yen as tea money. the house-wife of the hotel
+  scraped the floor with her forehead. couldn't sleep last night.
+  dreamed kiyo eat sasa-ame together with the bamboo-leaf wrappers. will
+  return next summer. went to the school to-day, and nicknamed all the
+  fellows. 'badger' for the principal, 'red shirt' for the head-teacher,
+  'hubbard squash' for the teacher of english, 'porcupine' the teacher
+  of mathematics and 'clown' for that of drawing. will write you many
+  other things soon. good bye."
+
+when i finished writing the letter, i felt better and sleepy. so i slept
+in the centre of the room, as i had done before, in the letter "big"
+shape ([d]). no dream this time, and i had a sound sleep.
+
+"is this the room?"--a loud voice was heard,--a voice which woke me up,
+and porcupine entered.
+
+"how do you do? what you have to do in the school----" he began talking
+shop as soon as i got up and rattled me much. on learning my duties in
+the school, there seemed to be no difficulty, and i decided to accept.
+if only such were what was expected of me, i would not be surprised were
+i told to start not only two days hence but even from the following day.
+the talk on business over, porcupine said that he did not think it was
+my intention to stay in such a hotel all the time, that he would find a
+room for me in a good boarding house, and that i should move.
+
+"they wouldn't take in another from anybody else but i can do it
+right away. the sooner the better. go and look at the room to-day,
+move tomorrow and start teaching from the next day. that'll be all
+nice and settled."
+
+he seemed satisfied by arranging all by himself. indeed, i should not be
+able to occupy such a room for long. i might have to blow in all of my
+salary for the hotel bill and yet be short of squaring it. it was pity
+to leave the hotel so soon after i had just shone with a 5-yen tip.
+however, it being decidedly convenient to move and get settled early if
+i had to move at all, i asked porcupine to get that room for me. he told
+me then to come over with him and see the house at any rate, and i did.
+the house was situated mid-way up a hill at the end of the town, and was
+a quiet. the boss was said to be a dealer in antique curios, called
+ikagin, and his wife was about four years his senior. i learned the
+english word "witch" when i was in middle school, and this woman looked
+exactly like one. but as she was another man's wife, what did i care if
+she was a witch. finally i decided to live in the house from the next
+day. on our way back porcupine treated me to a cup of ice-water. when i
+first met him in the school, i thought him a disgustingly overbearing
+fellow, but judging by the way he had looked after me so far, he
+appeared not so bad after all. only he seemed, like me, impatient by
+nature and of quick-temper. i heard afterward that he was liked most by
+all the students in the school.
+
+
+
+chapter iii.
+
+my teaching began at last. when i entered the class-room and stepped
+upon the platform for the first time, i felt somewhat strange. while
+lecturing, i wondered if a fellow like me could keep up the profession
+of public instructor. the students were noisy. once in a while, they
+would holler "teacher!" "teacher,"--it was "going some." i had been
+calling others "teacher" every day so far, in the school of physics, but
+in calling others "teacher" and being called one, there is a wide gap of
+difference. it made me feel as if some one was tickling my soles. i am
+not a sneakish fellow, nor a coward; only--it's a pity--i lack audacity.
+if one calls me "teacher" aloud, it gives me a shock similar to that of
+hearing the noon-gun in marunouchi when i was hungry. the first hour
+passed away in a dashing manner. and it passed away without encountering
+any knotty questions. as i returned to the teachers' room, porcupine
+asked me how it was. i simply answered "well," and he seemed satisfied.
+
+when i left the teachers' room, chalk in hand, for the second hour
+class, i felt as if i was invading the enemy's territory. on entering
+the room, i found the students for this hour were all big fellows. i am
+a tokyo kid, delicately built and small, and did not appear very
+impressive even in my elevated position. if it comes to a scraping, i
+can hold my own even with wrestlers, but i had no means of appearing
+awe-inspiring[e], merely by the aid of my tongue, to so many as forty
+such big chaps before me. believing, however, that it would set a bad
+precedent to show these country fellows any weakness, i lectured rather
+loudly and in brusque tone. during the first part the students were
+taken aback and listened literally with their mouths open. "that's one
+on you!" i thought. elated by my success, i kept on in this tone, when
+one who looked the strongest, sitting in the middle of the front row,
+stood up suddenly, and called "teacher!" there it goes!--i thought, and
+asked him what it was.
+
+"a-ah sa-ay, you talk too quick. a-ah ca-an't you make it a leetle slow?
+a-ah?" "a-ah ca-an't you?" "a-ah?" was altogether dull.
+
+"if i talk too fast, i'll make it slow, but i'm a tokyo fellow, and
+can't talk the way you do. if you don't understand it, better wait
+until you do."
+
+so i answered him. in this way the second hour was closed better than i
+had expected. only, as i was about to leave the class, one of the
+students asked me, "a-ah say, won't you please do them for me?" and
+showed me some problems in geometry which i was sure i could not solve.
+this proved to be somewhat a damper on me. but, helpless, i told him i
+could not make them out, and telling him that i would show him how next
+time, hastily got out of the room. and all of them raised "whee--ee!"
+some of them were heard saying "he doesn't know much." don't take a
+teacher for an encyclopaedia! if i could work out such hard questions as
+these easily, i would not be in such a backwoods town for forty yen a
+month. i returned to the teachers' room.
+
+"how was it this time?" asked porcupine. i said "umh." but not satisfied
+with "umh" only, i added that all the students in this school were
+boneheads. he put up a whimsical face.
+
+the third and the fourth hour and the first hour in the afternoon were
+more or less the same. in all the classes i attended, i made some kind
+of blunder. i realised that the profession of teaching not quite so easy
+a calling as might have appeared. my teaching for the day was finished
+but i could not get away. i had to wait alone until three o'clock. i
+understood that at three o'clock the students of my classes would finish
+cleaning up the rooms and report to me, whereupon i would go over the
+rooms. then i would run through the students' roll, and then be free to
+go home. outrageous, indeed, to keep on chained to the school, staring
+at the empty space when he had nothing more to do, even though he was
+"bought" by a salary! other fellow teachers, however, meekly submitted
+to the regulation, and believing it not well for me,--a new comer--to
+fuss about it, i stood it. on my way home, i appealed to porcupine as to
+the absurdity of keeping me there till three o'clock regardless of my
+having nothing to do in the school. he said "yes" and laughed. but he
+became serious and in an advisory manner told me not to make many
+complaints about the school.
+
+"talk to me only, if you want to. there are some queer guys around."
+
+as we parted at the next corner, i did not have time to hear more from
+him.
+
+on reaching my room, the boss of the house came to me saying, "let me
+serve you tea." i expected he was going to treat me to some good tea
+since he said "let me serve you," but he simply made himself at home
+and drank my own tea. judging by this, i thought he might be
+practising "let me serve you" during my absence. the boss said that he
+was fond of antique drawings and curios and finally had decided to
+start in that business.
+
+"you look like one quite taken about art. suppose you begin patronizing
+my business just for fun as er--connoisseur of art?"
+
+it was the least expected kind of solicitation. two years ago, i went to
+the imperial hotel (tokyo) on an errand, and i was taken for a
+locksmith. when i went to see the daibutsu at kamakura, haying wrapped
+up myself from head to toe with a blanket, a rikisha man addressed me as
+"gov'ner." i have been mistaken on many occasions for as many things,
+but none so far has counted on me as a probable connoisseur of art. one
+should know better by my appearance. any one who aspires to be a patron
+of art is usually pictured,--you may see in any drawing,--with either a
+hood on his head, or carrying a tanzaku[3] in his hand. the fellow who
+calls me a connoisseur of art and pretends to mean it, may be surely as
+crooked as a dog's hind legs. i told him i did not like such art-stuff,
+which is usually favored by retired people. he laughed, and remarking
+that that nobody liked it at first, but once in it, will find it so
+fascinating that he will hardly get over it, served tea for himself and
+drank it in a grotesque manner. i may say that i had asked him the night
+before to buy some tea for me, but i did not like such a bitter, heavy
+kind. one swallow seemed to act right on my stomach. i told him to buy a
+kind not so bitter as that, and he answered "all right, sir," and drank
+another cup. the fellow seemed never to know of having enough of
+anything so long as it was another man's. after he left the room, i
+prepared for the morrow and went to bed.
+
+[footnote 3: a tanzaku is a long, narrow strip of stiff paper on which a
+japanese poem is written.]
+
+everyday thereafter i attended at the school and worked as per
+regulations. every day on my return, the boss came to my room with the
+same old "let me serve you tea." in about a week i understood the school
+in a general way, and had my own idea as to the personality of the boss
+and his wife. i heard from one of my fellow teachers that the first week
+to one month after the receipt of the appointment worried them most as
+to whether they had been favorably received among the students. i never
+felt anything on that score. blunders in the class room once in a while
+caused me chagrin, but in about half an hour everything would clear out
+of my head. i am a fellow who, by nature, can't be worrying long
+about[f] anything even if i try to. i was absolutely indifferent as how
+my blunders in the class room affected the students, or how much further
+they affected the principal or the head-teacher. as i mentioned before,
+i am not a fellow of much audacity to speak of, but i am quick to give
+up anything when i see its finish.
+
+i had resolved to go elsewhere at once if the school did not suit me. in
+consequence, neither badger nor red shirt wielded any influence over me.
+and still less did i feel like coaxing or coddling the youngsters in the
+class room.
+
+so far it was o.k. with the school, but not so easy as that at my
+boarding house. i could have stood it if it had been only the boss
+coming to my room after my tea. but he would fetch many things to my
+room. first time he brought in seals.[4] he displayed about ten of them
+before me and persuaded me to buy them for three yen, which was very
+cheap, he said. did he take me for a third rate painter making a round
+of the country? i told him i did not want them. next time he brought in
+a panel picture of flowers and birds, drawn by one kazan or somebody. he
+hung it against the wall of the alcove and asked me if it was not well
+done, and i echoed it looked well done. then he started lecturing about
+kazan, that there are two kazans, one is kazan something and the other
+is kazan anything, and that this picture was the work of that kazan
+something. after this nonsensical lecture, he insisted that he would
+make it fifteen yen for me to buy it. i declined the offer saying that i
+was shy of the money.
+
+[footnote 4: artists have several seals of stone with which to stamp on
+the picture they draw as a guarantee of their personal work or for
+identification. the shape and kind of seals are quite a hobby among
+artists, and sales or exchange are of common occurrence.]
+
+"you can pay any time." he was insistent. i settled him by telling him
+of my having no intention of purchasing it even if i had the necessary
+money. again next time, he yanked in a big writing stone slab about the
+size of a ridge-tile.
+
+"this is a tankei,"[5] he said. as he "tankeied" two or three times, i
+asked for fun what was a tankei. right away he commenced lecturing on
+the subject. "there are the upper, the middle and the lower stratum in
+tankei," he said. "most of tankei slabs to-day are made from the upper
+stratum," he continued, "but this one is surely from the middle
+stratum. look at this 'gan.'[6] 'tis certainly rare to have three
+'gans' like this. the ink-cake grates smoothly on it. try it,
+sir,"--and he pushed it towards me. i asked him how much, and he
+answered that on account of its owner having brought it from china and
+wishing to sell if as soon as possible, he would make it very cheap,
+that i could have it for thirty yen. i was sure he was a fool. i seemed
+to be able to get through the school somehow, but i would soon give out
+if this "curio siege" kept on long.
+
+[footnote 5: tankei is the name of a place in china where a certain kind
+of stone suitable for writing purposes was produced.]
+
+[footnote 6: "gan" may be understood as a kind of natural mark on the
+stone peculiar to the stone from tankei.]
+
+shortly afterwards, i began to get sick of the school. one certain
+night, while i was strolling about a street named omachi, i happened to
+notice a sign of noodles below of which was annotated "tokyo" in the
+house next to the post office. i am very fond of noodles. while i was in
+tokyo, if i passed by a noodle house and smelled the seasoning spices, i
+felt uncontrollable temptation to go inside at any cost. up to this time
+i had forgotten the noodle on account of mathematics and antique curios,
+but since i had seen thus the sign of noodles, i could hardly pass it by
+unnoticed. so availing myself of this opportunity, i went in. it was not
+quite up to what i had judged by the sign. since it claimed to follow
+the tokyo style, they should have tidied up a little bit about the room.
+they did not either know tokyo or have the means,--i did not know which,
+but the room was miserably dirty. the floor-mats had all seen better
+days and felt shaggy with sandy dust. the sootcovered walls defied the
+blackest black. the ceiling was not only smoked by the lamp black, but
+was so low as to force one involuntarily bend down his neck. only the
+price-list, on which was glaringly written "noodles" and which was
+pasted on the wall, was entirely new. i was certain that they bought an
+old house and opened the business just two or three days before. at the
+head of the price-list appeared "tempura" (noodles served with shrimp
+fried in batter).
+
+"say, fetch me some tempura," i ordered in a loud voice. then three
+fellows who had been making a chewing noise together in a corner, looked
+in my direction. as the room was dark i did not notice them at first.
+but when we looked at each other, i found them all to be boys in our
+school. they "how d'ye do'd" me and i acknowledged it. that night,
+having come across the noodle after so long a time, it tasted so fine
+that i ate four bowls.
+
+the next day as i entered the class room quite unconcernedly, i saw on
+the black board written in letters so large as to take up the whole
+space; "professor tempura." the boys all glanced at my face and made
+merry hee-haws at my cost. it was so absurd that i asked them if it was
+in any way funny for me to eat tempura noodle. thereupon one of them
+said,--"but four bowls is too much." what did they care if i ate four
+bowls or five as long as i paid it with my own money,--and speedily
+finishing up my class, i returned to the teachers' room. after ten
+minutes' recess, i went to the next class, and there on the black board
+was newly written quite as large as before; "four bowls of tempura
+noodles, but don't laugh."
+
+the first one did not arouse any ill-temper in me, but this time it made
+me feel irritating mad. a joke carried too far becomes mischievous. it
+is like the undue jealousy of some women who, like coal, look black and
+suggest flames. nobody likes it. these country simpletons, unable to
+differentiate upon so delicate a boundary, would seem to be bent on
+pushing everything to the limit. as they lived in such a narrow town
+where one has no more to see if he goes on strolling about for one hour,
+and as they were capable of doing nothing better, they were trumpeting
+aloud this tempura incident in quite as serious a manner as the
+russo-japanese war. what a bunch of miserable pups! it is because they
+are raised in this fashion from their boyhood that there are many punies
+who, like the dwarf maple tree in the flower pot, mature gnarled and
+twisted. i have no objection to laugh myself with others over innocent
+jokes. but how's this? boys as they are, they showed a "poisonous
+temper." silently erasing off "tempura" from the board, i questioned
+them if they thought such mischief interesting, that this was a cowardly
+joke and if they knew the meaning of "cowardice." some of them answered
+that to get angry on being laughed at over one's own doing, was
+cowardice. what made them so disgusting as this? i pitied myself for
+coming from far off tokyo to teach such a lot.
+
+"keep your mouth shut, and study hard," i snapped, and started the
+class. in the next class again there was written: "when one eats tempura
+noodles it makes him drawl nonsense." there seemed no end to it. i was
+thoroughly aroused with anger, and declaring that i would not teach such
+sassies, went home straight. the boys were glad of having an unexpected
+holiday, so i heard. when things had come to this pass, the antique
+curious seemed far more preferable to the school.
+
+my return home and sleep over night greatly rounded off my rugged temper
+over the tempura affair. i went to the school, and they were there also.
+i could not tell what was what. the three days thereafter were pacific,
+and on the night of the fourth day, i went to a suburb called sumida and
+ate "dango" (small balls made of glutinous rice, dressed with
+sugar-paste). sumida is a town where there are restaurants, hot-springs
+bath houses and a park, and in addition, the "tenderloin." the dango
+shop where i went was near the entrance to the tenderloin, and as the
+dango served there was widely known for its nice taste, i dropped in on
+my way back from my bath. as i did not meet any students this time, i
+thought nobody knew of it, but when i entered the first hour class next
+day, i found written on the black board; "two dishes of dango--7 sen."
+it is true that i ate two dishes and paid seven sen. troublesome kids! i
+declare. i expected with certainty that there would be something at the
+second hour, and there it was; "the dango in the tenderloin taste fine."
+stupid wretches!
+
+no sooner i thought, the dango incident closed than the red towel became
+the topic for widespread gossip. inquiry as to the story revealed it to
+be something unusually absurd. since, my arrival here, i had made it a
+part of my routine to take in the hot springs bath every day. while
+there was nothing in this town which compared favorably with tokyo, the
+hot springs were worthy of praise. so long as i was in the town, i
+decided that i would have a dip every day, and went there walking,
+partly for physical exercise, before my supper. and whenever i went
+there i used to carry a large-size european towel dangling from my hand.
+added to somewhat reddish color the towel had acquired by its having
+been soaked in the hot-springs, the red color on its border, which was
+not fast enough, streaked about so that the towel now looked as if it
+were dyed red. this towel hung down from my hand on both ways whether
+afoot or riding in the train. for this reason, the students nicknamed me
+red towel. honest, it is exasperating to live in a little town.
+
+there is some more. the bath house i patronized was a newly built
+three-story house, and for the patrons of the first class the house
+provided a bath-robe, in addition to an attendant, and the cost was only
+eight sen. on top of that, a maid would serve tea in a regular polite
+fashion. i always paid the first class. then those gossipy spotters
+started saying that for one who made only forty yen a month to take a
+first class bath every day was extravagant. why the devil should they
+care? it was none of their business.
+
+there is still some more. the bath-tub,--or the tank in this case,--was
+built of granite, and measured about thirty square feet. usually there
+were thirteen or fourteen people in the tank, but sometimes there was
+none. as the water came up clear to the breast, i enjoyed, for athletic
+purposes, swimming in the tank. i delighted in swimming in this
+30-square feet tank, taking chances of the total absence of other
+people. once, going downstairs from the third story with a light heart,
+and peeping through the entrance of the tank to see if i should be able
+to swim, i noticed a sign put up in which was boldly written: "no
+swimming allowed in the tank." as there may not have been many who swam
+in the tank, this notice was probably put up particularly for my sake.
+after that i gave up swimming. but although i gave up swimming, i was
+surprised, when i went to the school, to see on the board, as usual,
+written: "no swimming allowed in the tank." it seemed as if all the
+students united in tracking me everywhere. they made me sick. i was not
+a fellow to stop doing whatever i had started upon no matter what
+students might say, but i became thoroughly disgusted when i meditated
+on why i had come to such a narrow, suffocating place. and, then, when i
+returned home, the "antique curio siege" was still going on.
+
+
+
+chapter iv
+
+
+for us teachers there was a duty of night watch in the school, and we
+had to do it in turn. but badger and red shirt were not in it. on
+asking why these two were exempt from this duty, i was told that they
+were accorded by the government treatment similar to officials of
+"sonin" rank. oh, fudge! they were paid more, worked less, and were
+then excused from this night watch. it was not fair. they made
+regulations to suit their convenience and seemed to regard all this as
+a matter of course. how could they be so brazen faced as this! i was
+greatly dissatisfied relative to this question, but according to the
+opinion of porcupine, protests by a single person, with what insistency
+they may be made, will not be heard. they ought to be heard whether
+they are made by one person or by two if they are just. porcupine
+remonstrated with me by quoting "might is right" in english. i did not
+catch his point, so i asked him again, and he told me that it meant the
+right of the stronger. if it was the right of the stronger i had known
+it for long, and did not require porcupine explain that to me at this
+time. the right of the stronger was a question different from that of
+the night watch. who would agree that badger and red shirt were the
+stronger? but argument or no argument, the turn of this night watch at
+last fell upon me. being quite fastidious, i never enjoyed sound sleep
+unless i slept comfortably in my own bedding. from my childhood, i
+never stayed out overnight. when i did not find sleeping under the roof
+of my friends inviting, night watch in the school, you may be sure, was
+still worse. however repulsive, if this was a part of the forty yen a
+month, there was no alternative. i had to do it.
+
+to remain alone in the school after the faculty and students had gone
+home, was something particularly awkward. the room for the night watch
+was in the rear of the school building at the west end of the dormitory.
+i stepped inside to see how it was, and finding it squarely facing the
+setting sun, i thought i would melt. in spite of autumn having already
+set in, the hot spell still lingered, quite in keeping with the
+dilly-dally atmosphere of the country. i ordered the same kind of meal
+as served for the students, and finished my supper. the meal was
+unspeakably poor. it was a wonder they could subsist on such miserable
+stuff and keep on "roughing it" in that lively fashion. not only that,
+they were always hungry for supper, finishing it at 4.30 in the
+afternoon. they must be heroes in a sense. i had thus my supper, but the
+sun being still high, could not go to bed yet. i felt like going to the
+hot-springs. i did not know the wrong or right of night watch going out,
+but it was oppressively trying to stand a life akin to heavy
+imprisonment. when i called at the school the first time and inquired
+about night watch, i was told by the janitor that he had just gone out
+and i thought it strange. but now by taking the turn of night watch
+myself, i could fathom the situation; it was right for any night watch
+to go out. i told the janitor that i was going out for a minute. he
+asked me "on business?" and i answered "no," but to take a bath at the
+hot springs, and went out straight. it was too bad that i had left my
+red towel at home, but i would borrow one over there for to-day.
+
+i took plenty of time in dipping in the bath and as it became dark at
+last, i came to the furumachi station on a train. it was only about four
+blocks to the school; i could cover it in no time. when i started
+walking schoolwards, badger was seen coming from the opposite direction.
+badger, i presumed, was going to the hot springs by this train. he came
+with brisk steps, and as we passed by, i nodded my courtesy. then
+badger, with a studiously owlish countenance, asked:
+
+"am i wrong to understand that you are night watch?"
+
+chuck that "am-i-wrong-to-understand"! two hours ago, did he not say to
+me "you're on first night watch to-night. now, take care of yourself?"
+what makes one use such a roundabout, twisted way of saying anything
+when he becomes a principal? i was far from smiling.
+
+"yes, sir," i said, "i'm night watch to-night, and as i am night watch i
+will return to the school and stay there overnight, sure." with this
+parting shot, i left him where we met. coming then to the cross-streets
+of katamachi, i met porcupine. this is a narrow place, i tell you.
+whenever one ventures out, he is sure to come across some familiar face.
+
+"say, aren't you night watch?" he hallooed, and i said "yes, i am." "tis
+wrong for night watch to leave his post at his pleasure," he added, and
+to this i blurted out with a bold front; "nothing wrong at all. it is
+wrong not to go out."
+
+"say, old man, your slap-dash is going to the limit. wouldn't look well
+for the principal or the head teacher to see you out like this."
+
+the submissive tone of his remark was contrary to porcupine as i had
+known him so far, so i cut him short by saying:
+
+"i have met the principal just now. why, he approved my taking a stroll
+about the town. said it would be hard on night watch unless he took a
+walk when it is hot." then i made a bee-line for the school.
+
+soon it was night. i called the janitor to my room and had a chat for
+about two hours. i grew tired of this, and thought i would get into bed
+anyway, even if i could not sleep. i put on my night shirt, lifted the
+mosquito-net, rolled off the red blanket and fell down flat on my back
+with a bang. the making of this bumping noise when i go to bed is my
+habit from my boyhood. "it is a bad habit," once declared a student of a
+law school who lived on the ground floor, and i on the second, when i
+was in the boarding house at ogawa-machi, kanda-ku, and who brought
+complaints to my room in person. students of law schools, weaklings as
+they are, have double the ability of ordinary persons when it comes to
+talking. as this student of law dwelt long on absurd accusations, i
+downed him by answering that the noise made when i went to bed was not
+the fault of my hip, but that of the house which was not built on a
+solid base, and that if he had any fuss to make, make it to the house,
+not to me. this room for night watch was not on the second floor, so
+nobody cared how much i banged. i do not feel well-rested unless i go to
+bed with the loudest bang i can make.
+
+"this is bully!" and i straightened out my feet, when something jumped
+and clung to them. they felt coarse, and seemed not to be fleas. i was a
+bit surprised, and shook my feet inside the blanket two or three times.
+instantly the blamed thing increased,--five or six of them on my legs,
+two or three on the thighs, one crushed beneath my hip and another clear
+up to my belly. the shock became greater. up i jumped, took off the
+blanket, and about fifty to sixty grasshoppers flew out. i was more or
+less uneasy until i found out what they were, but now i saw they were
+grasshoppers, they set me on the war path. "you insignificant
+grasshoppers, startling a man! see what's coming to you!" with this i
+slapped them with my pillow twice or thrice, but the objects being so
+small, the effect was out of proportion to the force with which the
+blows were administered. i adopted a different plan. in the manner of
+beating floor-mats with rolled matting at house-cleaning, i sat up in
+bed and began beating them with the pillow. many of them flew up by the
+force of the pillow; some desperately clung on or shot against my nose
+or head. i could not very well hit those on my head with the pillow; i
+grabbed such, and dashed them on the floor. what was more provoking was
+that no matter how hard i dashed them, they landed on the mosquito-net
+where they made a fluffy jerk and remained, far from being dead. at
+last, in about half an hour the slaughter of the grasshoppers was ended.
+i fetched a broom and swept them out. the janitor came along and asked
+what was the matter.
+
+"damn the matter! where in thunder are the fools who keep grasshoppers
+in bed! you pumpkinhead!"
+
+the janitor answered by explaining that he did not know anything about
+it. "you can't get away with did-not-know," and i followed this
+thundering by throwing away the broom. the awe-struck janitor shouldered
+the broom and faded away.
+
+at once i summoned three of the students to my room as the
+"representatives," and six of them reported. six or ten made no
+difference; i rolled up the sleeves of my night-shirt and fired away.
+
+"what do you mean by putting grasshoppers in my bed!"
+
+"grasshoppers? what are they?" said one in front, in a tone disgustingly
+quiet. in this school, not only the principal, but the students as well,
+were addicted to using twisted-round expressions.
+
+"don't know grasshoppers! you shall see!" to my chagrin, there was none;
+i had swept them all out. i called the janitor again and told him to
+fetch those grasshoppers he had taken away. the janitor said he had
+thrown them into the garbage box, but that he would pick them out again.
+"yes, hurry up," i said, and he sped away. after a while he brought back
+about ten grasshoppers on a white paper, remarking:
+
+"i'm sorry, sir. it's dark outside and i can't find out more. i'll find
+some tomorrow." all fools here, down to the janitor. i showed one
+grasshopper to the students.
+
+"this is a grasshopper. what's the matter for as big idiots as you not
+to know a grasshopper." then the one with a round face sitting on the
+left saucily shot back:
+
+"a-ah say, that's a locust, a-ah----."
+
+"shut up. they're the same thing. in the first place, what do you
+mean by answering your teacher 'a-ah say'? ah-say or ah-sing is a
+chink's name!"
+
+for this counter-shot, he answered:
+
+"a-ah say and ah-sing is different,--a-ah say." they never got rid of
+"a-ah say."
+
+"grasshoppers or locusts, why did you put them into my bed? when i
+asked you to?"
+
+"nobody put them in."
+
+"if not, how could they get into the bed?"
+
+"locusts are fond of warm places and probably they got in there
+respectfully by themselves."
+
+"you fools! grasshoppers getting into bed respectfully! i should smile
+at them getting in there respectfully! now, what's the reason for doing
+this mischief? speak out."
+
+"but there is no way to explain it because we didn't do it."
+
+shrimps! if they were afraid of making a clean breast of their own deed,
+they should not have done it at all. they looked defiant, and appeared
+to insist on their innocence as long as no evidence was brought up. i
+myself did some mischief while in the middle school, but when the
+culprit was sought after, i was never so cowardly, not even once, to
+back out. what one has done, has been done; what he has not, has not
+been,--that's the black and white of it. i, for one have been game and
+square, no matter how much mischief i might have done. if i wished to
+dodge the punishment, i would not start it. mischief and punishment are
+bound to go together. we can enjoy mischief-making with some show of
+spirit because it is accompanied by certain consequences. where does one
+expect to see the dastardly spirit which hungers for mischief-making
+without punishment, in vogue? the fellows who like to borrow money but
+not pay it back, are surely such as these students here after they are
+graduated. what did these fellows come to this middle school for,
+anyway? they enter a school, tattle round lies, play silly jokes behind
+some one by sneaking and cheating and get wrongly swell-headed when they
+finish the school thinking they have received an education. a common lot
+of jackasses they are.
+
+my hatred of talking with these scamps became intense, so i dismissed
+them by saying:
+
+"if you fellows have nothing to say, let it go at that. you deserve
+pity for not knowing the decent from the vulgar after coming to a
+middle school."
+
+i am not very decent in my own language or manner, but am sure that my
+moral standard is far more decent than that of these gangs. those six
+boys filed out leisurely. outwardly they appeared more dignified than i
+their teacher, it was the more repulsive for their calm behavior. i have
+no temerity equal to theirs. then i went to bed again, and found the
+inside of the net full of merry crowds of mosquitoes. i could not bother
+myself to burn one by one with a candle flame. so i took the net off the
+hooks, folded it the lengthwise, and shook it crossways, up and down the
+room. one of the rings of the net, flying round, accidentally hit the
+back of my hand, the effect of which i did not soon forget. when i went
+to bed for the third time, i cooled off a little, but could not sleep
+easily. my watch showed it was half past ten. well, as i thought it
+over, i realized myself as having come to a dirty pit. if all teachers
+of middle schools everywhere have to handle fellows like these in this
+school, those teachers have my sympathy. it is wonderful that teachers
+never run short. i believe there are many boneheads of extraordinary
+patience; but me for something else. in this respect, kiyo is worthy of
+admiration. she is an old woman, with neither education nor social
+position, but as a human, she does more to command our respect. until
+now, i have been a trouble to her without appreciating her goodness, but
+having come alone to such a far-off country, i now appreciated, for the
+first time, her kindness. if she is fond of sasa-ame of echigo province,
+and if i go to echigo for the purpose of buying that sweetmeat to let
+her eat it, she is fully worth that trouble. kiyo has been praising me
+as unselfish and straight, but she is a person of sterling qualities far
+more than i whom she praises. i began to feel like meeting her.
+
+while i was thus meditating about kiyo, all of a sudden, on the floor
+above my head, about thirty to forty people, if i guess by the number,
+started stamping the floor with bang, bang, bang that well threatened to
+bang down the floor. this was followed by proportionately loud whoops.
+the noise surprised me, and i popped up. the moment i got up i became
+aware that the students were starting a rough house to get even with me.
+what wrong one has committed, he has to confess, or his offence is never
+atoned for. they are just to ask for themselves what crimes they have
+done. it should be proper that they repent their folly after going to
+bed and to come and beg me pardon the next morning. even if they could
+not go so far as to apologize they should have kept quiet. then what
+does this racket mean? where we keeping hogs in our dormitory?
+
+"this crazy thing got to stop. see what you get!"
+
+i ran out of the room in my night shirt, and flew upstairs in three and
+half steps. then, strange to say, thunderous rumbling, of which i was
+sure of hearing in the act, was hushed. not only a whisper but even
+footsteps were not heard. this was funny. the lamp was already blown
+out and although i could not see what was what in the dark, nevertheless
+could tell by instinct whether there was somebody around or not. in the
+long corridor running from the east to the west, there was not hiding
+even a mouse. from other end of the corridor the moonlight flooded in
+and about there it was particularly light. the scene was somewhat
+uncanny. i have had the habit from my boyhood of frequently dreaming and
+of flying out of bed and of muttering things which nobody understood,
+affording everybody a hearty laugh. one night, when i was sixteen or
+seventeen, i dreamed that i picked up a diamond, and getting up,
+demanded of my brother who was sleeping close to me what he had done
+with that diamond. the demand was made with such force that for about
+three days all in the house chaffed me about the fatal loss of precious
+stone, much to my humiliation. maybe this noise which i heard was but a
+dream, although i was sure it was real. i was wondering thus in the
+middle of the corridor, when at the further end where it was moonlit, a
+roar was raised, coming from about thirty or forty throats, "one, two,
+three,--whee-ee!" the roar had hardly subsided, when, as before, the
+stamping of the floor commenced with furious rhythm. ah, it was not a
+dream, but a real thing!
+
+"quit making the noise! 'tis midnight!"
+
+i shouted to beat the band, and started in their direction. my passage
+was dark; the moonlight yonder was only my guide. about twelve feet
+past, i stumbled squarely against some hard object; ere the "ouch!" has
+passed clear up to my head, i was thrown down. i called all kinds of
+gods, but could not run. my mind urged me on to hurry up, but my leg
+would not obey the command. growing impatient, i hobbled on one foot,
+and found both voice and stamping already ceased and perfectly quiet.
+men can be cowards but i never expected them capable of becoming such
+dastardly cowards as this. they challenged hogs.
+
+now the situation having developed to this pretty mess, i would not give
+it up until i had dragged them out from hiding and forced them to
+apologize. with this determination, i tried to open one of the doors and
+examine inside, but it would not open. it was locked or held fast with a
+pile of tables or something; to my persistent efforts the door stood
+unyielding. then i tried one across the corridor on the northside, but
+it was also locked. while this irritating attempt at door-opening was
+going on, again on the east end of the corridor the whooping roar and
+rhythmic stamping of feet were heard. the fools at both ends were bent
+on making a goose of me. i realized this, but then i was at a loss what
+to do. i frankly confess that i have not quite as much tact as dashing
+spirit. in such a case i am wholly at the mercy of swaying circumstances
+without my own way of getting through it. nevertheless, i do not expect
+to play the part of underdog. if i dropped the affair then and there, it
+would reflect upon my dignity. it would be mortifying to have them think
+that they had one on the tokyo-kid and that tokyo-kid was wanting in
+tenacity. to have it on record that i had been guyed by these
+insignificant spawn when on night watch, and had to give in to their
+impudence because i could not handle them,--this would be an indelible
+disgrace on my life. mark ye,--i am descendant of a samurai of the
+"hatamato" class. the blood of the "hatamoto" samurai could be traced to
+mitsunaka tada, who in turn could claim still a nobler ancestor. i am
+different from, and nobler than, these manure-smelling louts. the only
+pity is that i am rather short of tact; that i do not know what to do in
+such a case. that is the trouble. but i would not throw up the sponge;
+not on your life! i only do not know how because i am honest. just
+think,--if the honest does not win, what else is there in this world
+that will win? if i cannot beat them to-night, i will tomorrow; if not
+tomorrow, then the day after tomorrow. if not the day after tomorrow, i
+will sit down right here, get my meals from my home until i beat them.
+
+thus resolved, i squatted in the middle of the corridor and waited for
+the dawn. myriads of mosquitoes swarmed about me, but i did not mind
+them. i felt my leg where i hit it a while ago; it seemed bespattered
+with something greasy. i thought it was bleeding. let it bleed all it
+cares! meanwhile, exhausted by these unwonted affairs, i fell asleep.
+when i awoke, up i jumped with a curse. the door on my right was half
+opened, and two students were standing in front of me. the moment i
+recovered my senses from the drowsy lull, i grabbed a leg of one of them
+nearest to me, and yanked it with all my might. he fell down prone. look
+at what you're getting now! i flew at the other fellow, who was much
+confused; gave him vigorous shaking twice or thrice, and he only kept
+open his bewildering eyes.
+
+"come up to my room." evidently they were mollycoddles, for they obeyed
+my command without a murmur. the day had become already clear.
+
+i began questioning those two in my room, but,--you cannot pound out the
+leopard's spots no matter how you may try,--they seemed determined to
+push it through by an insistent declaration of "not guilty," that they
+would not confess. while this questioning was going on, the students
+upstairs came down, one by one, and began congregating in my room. i
+noticed all their eyes were swollen from want of sleep.
+
+"blooming nice faces you got for not sleeping only one night. and you
+call yourselves men! go, wash your face and come back to hear what i've
+got to tell you."
+
+i hurled this shot at them, but none of them went to wash his face. for
+about one hour, i had been talking and back-talking with about fifty
+students when suddenly badger put in his appearance. i heard afterward
+that the janitor ran to badger for the purpose of reporting to him that
+there was a trouble in the school. what a weak-knee of the janitor to
+fetch the principal for so trifling an affair as this! no wonder he
+cannot see better times than a janitor.
+
+the principal listened to my explanation, and also to brief remarks from
+the students. "attend school as usual till further notice. hurry up with
+washing your face and breakfast; there isn't much time left." so the
+principal let go all the students. decidedly slow way of handling, this.
+if i were the principal, i would expel them right away. it is because
+the school accords them such luke-warm treatment that they get "fresh"
+and start "guying" the night watch.
+
+he said to me that it must have been trying on my nerves, and that
+i might be tired, and also that i need not teach that day. to this
+i replied:
+
+"no, sir, no worrying at all. such things may happen every night,
+but it would not disturb me in the least as long as i breathe. i
+will do the teaching. if i were not able to teach on account of lack
+of sleep for only one single night, i would make a rebate of my
+salary to the school."
+
+i do not know how this impressed him, but he gazed at me for a while,
+and called my attention to the fact that my face was rather swollen.
+indeed, i felt it heavy. besides, it itched all over. i was sure the
+mosquitoes must have stung me there to their hearts' content. i
+further added:
+
+"my face may be swollen, but i can talk all right; so i will teach;"
+thus scratching my face with some warmth. the principal smiled and
+remarked, "well, you have the strength." to tell the truth, he did not
+intend remark to be a compliment, but, i think, a sneer.
+
+
+
+chapter v.
+
+
+"won't you go fishing?" asked red shirt he talks in a strangely womanish
+voice. one would not be able to tell whether he was a man or a woman. as
+a man he should talk like one. is he not a college graduate? i can talk
+man-like enough, and am a graduate from a school of physics at that. it
+is a shame for a b.a. to have such a squeak.
+
+i answered with the smallest enthusiasm, whereupon he further asked me
+an impolite question if i ever did fishing. i told him not much, that i
+once caught three gibels when i was a boy, at a fishing game pond at
+koume, and that i also caught a carp about eight inches long, at a
+similar game at the festival of bishamon at kagurazaka;--the carp, just
+as i was coaxing it out of the water, splashed back into it, and when i
+think of the incident i feel mortified at the loss even now. red shirt
+stuck out his chin and laughed "ho, ho." why could he not laugh just
+like an ordinary person? "then you are not well acquainted with the
+spirit of the game," he cried. "i'll show you if you like." he seemed
+highly elated.
+
+not for me! i take it this way that generally those who are fond of
+fishing or shooting have cruel hearts. otherwise, there is no reason why
+they could derive pleasure in murdering innocent creatures. surely, fish
+and birds would prefer living to getting killed. except those who make
+fishing or shooting their calling, it is nonsense for those who are well
+off to say that they cannot sleep well unless they seek the lives of
+fish or birds. this was the way i looked at the question, but as he was
+a b. a. and would have a better command of language when it came to
+talking, i kept mum, knowing he would beat me in argument. red shirt
+mistook my silence for my surrender, and began to induce me to join him
+right away, saying he would show me some fish and i should come with him
+if i was not busy, because he and mr. yoshikawa were lonesome when
+alone. mr. yoshikawa is the teacher of drawing whom i had nicknamed
+clown. i don't know what's in the mind of this clown, but he was a
+constant visitor at the house of red shirt, and wherever he went, clown
+was sure to be trailing after him. they appeared more like master and
+servant than two fellow teachers. as clown used to follow red shirt like
+a shadow, it would be natural to see them go off together now, but when
+those two alone would have been well off, why should they invite
+me,--this brusque, unaesthetic fellow,--was hard to understand.
+probably, vain of his fishing ability, he desired to show his skill, but
+he aimed at the wrong mark, if that was his intention, as nothing of the
+kind would touch me. i would not be chagrined if he fishes out two or
+three tunnies. i am a man myself and poor though i may be in the art, i
+would hook something if i dropped a line. if i declined his invitation,
+red shirt would suspect that i refused not because of my lack of
+interest in the game but because of my want of skill of fishing. i
+weighed the matter thus, and accepted his invitation. after the school,
+i returned home and got ready, and having joined red shirt and clown at
+the station, we three started to the shore. there was only one boatman
+to row; the boat was long and narrow, a kind we do not have in tokyo. i
+looked for fishing rods but could find none.
+
+"how can we fish without rods? how are we going to manage it?" i asked
+clown and he told me with the air of a professional fisherman that no
+rods were needed in the deep-sea fishing, but only lines. i had better
+not asked him if i was to be talked down in this way.
+
+the boatman was rowing very slowly, but his skill was something
+wonderful. we had already come far out to sea, and on turning back, saw
+the shore minimized, fading in far distance. the five-storied pagoda of
+tosho temple appeared above the surrounding woods like a needle-point.
+yonder stood aoshima (blue island). nobody was living on this island
+which a closer view showed to be covered with stones and pine trees. no
+wonder no one could live there. red shirt was intently surveying about
+and praising the general view as fine. clown also termed it "an
+absolutely fine view." i don't know whether it is so fine as to be
+absolute, but there was no doubt as to the exhilarating air. i realized
+it as the best tonic to be thus blown by the fresh sea breeze upon a
+wide expanse of water. i felt hungry.
+
+"look at that pine; its trunk is straight and spreads its top branches
+like an umbrella. isn't it a turnersque picture?" said red shirt. "yes,
+just like turner's," responded clown, "isn't the way it curves just
+elegant? exactly the touch of turner," he added with some show of pride.
+i didn't know what turner was, but as i could get along without knowing
+it, i kept silent. the boat turned to the left with the island on the
+right. the sea was so perfectly calm as to tempt one to think he was not
+on the deep sea. the pleasant occasion was a credit to red shirt. as i
+wished, if possible, to land on the island, i asked the boatman if our
+boat could not be made to it. upon this red shirt objected, saying that
+we could do so but it was not advisable to go too close the shore for
+fishing. i kept still for a while. then clown made the unlooked-for
+proposal that the island be named turner island. "that's good; we shall
+call it so hereafter," seconded red shirt. if i was included in that
+"we," it was something i least cared for. aoshima was good enough for
+me. "by the way, how would it look," said clown, "if we place madonna by
+raphael upon that rock? it would make a fine picture."
+
+"let's quit talking about madonna, ho, ho, ho," and red shirt emitted a
+spooky laugh.
+
+"that's all right. nobody's around," remarked clown as he glanced at me,
+and turning his face to other direction significantly, smiled
+devilishly. i felt sickened.
+
+as it was none of my business whether it was a madonna or a kodanna
+(young master), they let pose there any old way, but it was vulgar to
+feign assurance that one's subject is in no danger of being understood
+so long as others did not know the subject. clown claims himself as a
+yedo kid. i thought that the person called madonna was no other than a
+favorite geisha of red shirt. i should smile at the idea of his gazing
+at his tootsy-wootsy standing beneath a pine tree. it would be better
+if clown would make an oil painting of the scene and exhibit it for
+the public.
+
+"this will be about the best place." so saying the boatman stopped
+rowing the boat and dropped an anchor.
+
+"how deep is it?" asked red shirt, and was told about six fathoms.
+
+"hard to fish sea-breams in six fathoms," said red shirt as he dropped a
+line into the water. the old sport appeared to expect to fetch some
+bream. bravo!
+
+"it wouldn't be hard for you. besides it is calm," clown fawningly
+remarked, and he too dropped a line. the line had only a tiny bit of
+lead that looked like a weight. it had no float. to fish without a float
+seemed as nearly reasonable as to measure the heat without a
+thermometer, which was something impossible for me. so i looked on. they
+then told me to start, and asked me if i had any line. i told them i had
+more than i could use, but that i had no float.
+
+"to say that one is unable to fish without a float shows that he is a
+novice," piped up clown.
+
+"see? when the line touches the bottom, you just manage it with your
+finger on the edge. if a fish bites, you could tell in a minute. there
+it goes," and red shirt hastily started taking out the line. i wondered
+what he had got, but i saw no fish, only the bait was gone. ha, good for
+you, gov'nur!
+
+"wasn't it too bad! i'm sure it was a big one. if you miss that way,
+with your ability, we would have to keep a sharper watch to-day. but,
+say, even if we miss the fish, it's far better than staring at a float,
+isn't it? just like saying he can't ride a bike without a brake." clown
+has been getting rather gay, and i was almost tempted to swat him. i'm
+just as good as they are. the sea isn't leased by red shirt, and there
+might be one obliging bonito which might get caught by my line. i
+dropped my line then, and toyed it with my finger carelessly.
+
+after a while something shook my line with successive jerks. i thought
+it must be a fish. unless it was something living, it would not give
+that tremulous shaking. good! i have it, and i commenced drawing in the
